@@ -11,9 +11,9 @@ To install and or use it;
 * Download python3.6 ($ sudo apt-get install python3.6.)
 * Set up a virtual environment($ python3.6 -venv --without-pip virtual)
 * Activate the virtual environment ($ source virtual/bin/activate )
-* Clone my github repository from https://github.com/Geerocktricks/News_journal.git
+* Clone my github repository from https://github.com/Geerocktricks/Weather_app.git
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://media.idownloadblog.com/wp-content/uploads/2014/06/Yahoo-Weather-10-day-forecast-iPhone-screenshot-001.png)
 
 ## Known Bugs
 There are currently no known bugs
